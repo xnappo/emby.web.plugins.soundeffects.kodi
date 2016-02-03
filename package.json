@@ -1,8 +1,8 @@
 {
-    "name": "emby.soundeffectspack",
-    "displayName": "Sound Effects Pack",
+    "name": "emby.androidtvsoundeffectspack",
+    "displayName": "Android TV Sound Effects Pack",
     "version": "1.0.0",
-    "description": "Awesome sound effects!",
+    "description": "Sound effects like those used by Android TV",
     "plugin": "plugin.js",
     "bugs": "https://github.com/MediaBrowser/emby.web.plugins.soundeffects/issues",
     "homepage": "https://github.com/MediaBrowser/emby.web.plugins.soundeffects",
