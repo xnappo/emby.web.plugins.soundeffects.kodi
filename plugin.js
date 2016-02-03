@@ -4,9 +4,9 @@ define([], function () {
 
         var self = this;
 
-        self.name = 'Coins';
+        self.name = 'Android TV';
         self.type = 'soundeffects';
-        self.id = 'coinsoundeffects';
+        self.id = 'androidtvsoundeffects';
 
         self.getEffects = function () {
             return {

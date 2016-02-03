@@ -1,9 +1,9 @@
-# emby.web.plugins.soundeffects
+# emby.web.plugins.soundeffects.androidtvsounds
 
 This is a template for a sound effect plugin. To create your own, follow these steps:
 
 * Fork this repository. After forking, you'll probably want to rename it.
-* Update package.json (see below). 
+* Update package.json (see below).
 * Update plugin.js (see below).
 * Update the installation url below.
 
@@ -25,4 +25,4 @@ A package consists of one or more modules (plugins) that are loaded at runtime. 
 
 # Installation
 
-Install into the app by installing a plugin from a url. The url is: http://mediabrowser.github.io/emby.web.plugins.soundeffects/package.json
+Install into the app by installing a plugin from a url. The url is: https://github.com/flexage/emby.web.plugins.soundeffects.androidtvsounds/package.json
