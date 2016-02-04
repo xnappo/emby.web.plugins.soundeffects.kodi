@@ -4,9 +4,9 @@ define([], function () {
 
         var self = this;
 
-        self.name = 'Plink';
+        self.name = 'Kodi';
         self.type = 'soundeffects';
-        self.id = 'plinksoundeffects';
+        self.id = 'kodisoundeffects';
 
         self.getEffects = function () {
             return {
