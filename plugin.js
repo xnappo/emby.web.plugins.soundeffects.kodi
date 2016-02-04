@@ -4,7 +4,7 @@ define([], function () {
 
         var self = this;
 
-        self.name = 'Android TV';
+        self.name = 'Plink';
         self.type = 'soundeffects';
         self.id = 'androidtvsoundeffects';
 

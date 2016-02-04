@@ -1,11 +1,11 @@
 {
-    "name": "flexage.androidtvsoundeffectspack",
-    "displayName": "Android TV Sound Effects Pack",
-    "version": "1.0.1",
-    "description": "Sound effects like those used by Android TV",
+    "name": "flexage.plinksoundeffectspack",
+    "displayName": "Plink Sound Effects Pack",
+    "version": "1.0.0",
+    "description": "Some plinky and clicky UI sounds for Emby Theater",
     "plugin": "plugin.js",
-    "bugs": "https://github.com/MediaBrowser/emby.web.plugins.soundeffects/issues",
-    "homepage": "https://github.com/flexage/emby.web.plugins.soundeffects.androidtvsounds/",
-    "thumb": "android-tv.png",
-    "backdrop": "android-tv-backdrop.jpg"
+    "bugs": "https://github.com/flexage/emby.web.plugins.soundeffects.plink/issues",
+    "homepage": "https://github.com/flexage/emby.web.plugins.soundeffects.plink",
+    "thumb": "plink.jpg",
+    "backdrop": "plink.jpg"
 }

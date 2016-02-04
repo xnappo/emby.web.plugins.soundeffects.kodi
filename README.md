@@ -1,4 +1,4 @@
-# emby.web.plugins.soundeffects.androidtvsounds
+# emby.web.plugins.soundeffects.plink
 
 This is a template for a sound effect plugin. To create your own, follow these steps:
 
@@ -25,4 +25,8 @@ A package consists of one or more modules (plugins) that are loaded at runtime. 
 
 # Installation
 
-Install into the app by installing a plugin from a url. The url is: http://flexage.github.io/emby.web.plugins.soundeffects.androidtvsounds/package.json
+Install into the app by installing a plugin from a url. The url is: http://flexage.github.io/emby.web.plugins.soundeffects.plink/package.json
+
+# Credits
+
+The sounds used in this plugin are provided under a CC Attribution licence (http://creativecommons.org/licenses/by/3.0/us/legalcode): Dev_Tones - http://rcptones.com/dev_tones/
