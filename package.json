@@ -1,11 +1,11 @@
 {
-    "name": "emby.androidtvsoundeffectspack",
+    "name": "flexage.androidtvsoundeffectspack",
     "displayName": "Android TV Sound Effects Pack",
     "version": "1.0.0",
     "description": "Sound effects like those used by Android TV",
     "plugin": "plugin.js",
     "bugs": "https://github.com/MediaBrowser/emby.web.plugins.soundeffects/issues",
     "homepage": "https://github.com/flexage/emby.web.plugins.soundeffects.androidtvsounds/",
-    "thumbUrl": "https://github.com/flexage/emby.web.plugins.soundeffects.androidtvsounds/raw/gh-pages/android-tv.png",
-    "backdropUrl": ""
+    "thumb": "android-tv.png",
+    "backdrop": "android-tv-backdrop.jpg"
 }
