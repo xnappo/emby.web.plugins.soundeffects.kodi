@@ -6,7 +6,7 @@ define([], function () {
 
         self.name = 'Plink';
         self.type = 'soundeffects';
-        self.id = 'androidtvsoundeffects';
+        self.id = 'plinksoundeffects';
 
         self.getEffects = function () {
             return {
