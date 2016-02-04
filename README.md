@@ -1,4 +1,4 @@
-# emby.web.plugins.soundeffects.plink
+# emby.web.plugins.soundeffects.kodi
 
 This is a template for a sound effect plugin. To create your own, follow these steps:
 
@@ -25,7 +25,7 @@ A package consists of one or more modules (plugins) that are loaded at runtime. 
 
 # Installation
 
-Install into the app by installing a plugin from a url. The url is: http://flexage.github.io/emby.web.plugins.soundeffects.plink/package.json
+Install into the app by installing a plugin from a url. The url is: http://flexage.github.io/emby.web.plugins.soundeffects.kodi/package.json
 
 # Credits
 
