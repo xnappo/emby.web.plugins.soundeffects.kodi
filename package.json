@@ -1,7 +1,7 @@
 {
     "name": "flexage.plinksoundeffectspack",
     "displayName": "Plink Sound Effects Pack",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Some plinky and clicky UI sounds for Emby Theater",
     "plugin": "plugin.js",
     "bugs": "https://github.com/flexage/emby.web.plugins.soundeffects.plink/issues",
